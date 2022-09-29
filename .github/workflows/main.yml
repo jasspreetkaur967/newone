@@ -1,4 +1,4 @@
-name: terraform
+name: Workflow
 
 on:
 #   workflow_dispatch:
