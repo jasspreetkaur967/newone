@@ -1,1 +1,1 @@
-jk= "new_s3_buck"
+jk= "new-s3-buck"
